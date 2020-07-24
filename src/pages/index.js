@@ -8,7 +8,7 @@ import styles from './styles.module.css';
 
 const features = [
   {
-    title: <>Web Development</>,
+    title: <>Images</>,
     imageUrl: 'img/undraw_docusaurus_mountain.svg',
     description: (
       <>
@@ -18,7 +18,7 @@ const features = [
     ),
   },
   {
-    title: <>Graphic Design</>,
+    title: <>Video</>,
     imageUrl: 'img/undraw_docusaurus_tree.svg',
     description: (
       <>
@@ -28,7 +28,7 @@ const features = [
     ),
   },
   {
-    title: <>Video Editing</>,
+    title: <>Audio</>,
     imageUrl: 'img/undraw_docusaurus_react.svg',
     description: (
       <>

@@ -8,7 +8,7 @@ module.exports = {
   projectName: 'docusaurus', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: 'Welcome to Creative Rebel'',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
@@ -17,7 +17,7 @@ module.exports = {
         {
           to: 'docs/doc1',
           activeBasePath: 'docs',
-          label: 'Docs',
+          label: 'Free',
           position: 'left',
         },
         {to: 'blog', label: 'Blog', position: 'left'},

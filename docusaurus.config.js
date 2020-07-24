@@ -1,8 +1,8 @@
 module.exports = {
   title: 'Creative Rebel',
   tagline: 'Bring your ideas to life with unlimited stock media subscriptions. FREE. FREE. FREE!',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  url: 'https://creativerebel.cf/',
+  baseUrl: '/'
   favicon: 'img/favicon.ico',
   organizationName: 'facebook', // Usually your GitHub org/user name.
   projectName: 'docusaurus', // Usually your repo name.

@@ -1,6 +1,6 @@
 module.exports = {
   title: 'Creative Rebel',
-  tagline: 'All Creative Tools You Needed',
+  tagline: 'Bring your ideas to life with unlimited stock media subscriptions. FREE. FREE. FREE!',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
   favicon: 'img/favicon.ico',

@@ -1,6 +1,6 @@
 module.exports = {
   title: 'Creative Rebel',
-  tagline: 'Bring your ideas to life with unlimited stock media subscriptions. FREE. FREE. FREE!',
+  tagline: 'Bring your ideas to life with unlimited stock media subscriptions. ',
   url: 'https://creativerebel.cf/',
   baseUrl: '/'
   favicon: 'img/favicon.ico',
@@ -75,7 +75,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Creative Rebel.`,
     },
   },
   presets: [

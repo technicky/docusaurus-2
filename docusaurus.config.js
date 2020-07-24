@@ -8,7 +8,7 @@ module.exports = {
   projectName: 'docusaurus', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'Welcome to Creative Rebel'',
+      title: 'Welcome to Creative Rebel!'',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',

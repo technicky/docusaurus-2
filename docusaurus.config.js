@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'Welcome to Creative Rebel',
+  title: 'Creative Rebel',
   tagline: 'The tagline of my site',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
